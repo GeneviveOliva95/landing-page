@@ -24,8 +24,8 @@ a {
     gap: 15px;
 }
 
-.header,
-.hero {
+.section-one {
     background-color: #1F2937;
     color: white;
+    padding: 10px 85px;
 }
