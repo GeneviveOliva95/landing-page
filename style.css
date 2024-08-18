@@ -11,6 +11,7 @@ h1 {
 .header {
     display: flex;
     justify-content: space-between;
+    padding-bottom: 65px;
 }
 
 a {
