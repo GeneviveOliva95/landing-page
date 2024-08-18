@@ -12,6 +12,7 @@ h1 {
     display: flex;
     justify-content: space-between;
     padding-bottom: 65px;
+    white-space: nowrap;
 }
 
 a {
@@ -24,7 +25,6 @@ a {
     display: flex;
     gap: 15px;
     align-items: center;
-    white-space: nowrap;
 }
 
 .section-one {
