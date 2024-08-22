@@ -11,6 +11,12 @@ h1 {
     padding-right: 500px;
 }
 
+h2 {
+    display: flex; 
+    width: 200px;
+    flex-wrap: wrap;
+}
+
 .header {
     display: flex;
     justify-content: center;
