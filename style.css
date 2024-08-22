@@ -56,7 +56,7 @@ a {
 .hero {
     display: flex;
     justify-content: center;
-    gap: 30px;
+    gap: 60px;
 }
 
 .text {
