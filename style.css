@@ -31,11 +31,12 @@ a {
     align-items: center;
 }
 
-h2 {
+.title {
     display: flex; 
-    width: 200px;
+    width: 300px;
     flex-wrap: wrap;
     margin-bottom: 0px;
+    font-size: 48px;
 }
 
 .subtext {
