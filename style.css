@@ -38,15 +38,18 @@ a {
     margin-bottom: 0px;
     font-size: 48px;
     font-weight: bolder;
+    text
+    color: #F9FAF8;
 }
 
 .subtext {
     margin: 5px 0px;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .section-one {
     background-color: #1F2937;
-    color: white;
     padding: 10px;
 }
 
