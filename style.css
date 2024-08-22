@@ -37,6 +37,7 @@ a {
     flex-wrap: wrap;
     margin-bottom: 0px;
     font-size: 48px;
+    font-weight: bolder;
 }
 
 .subtext {
