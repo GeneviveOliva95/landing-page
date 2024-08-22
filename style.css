@@ -50,6 +50,7 @@ a {
 .section-one {
     background-color: #1F2937;
     padding: 10px;
+    padding-bottom: 150px;
 }
 
 .hero {
@@ -59,5 +60,5 @@ a {
 }
 
 .text {
-    max-width: 380px;
+    max-width: 390px;
 }
