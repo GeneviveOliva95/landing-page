@@ -35,10 +35,9 @@ a {
     display: flex; 
     width: 300px;
     flex-wrap: wrap;
-    margin-bottom: 0px;
+    margin: 0px;
     font-size: 48px;
     font-weight: bolder;
-    text
     color: #F9FAF8;
 }
 
