@@ -8,7 +8,7 @@ h1 {
     margin: 0px;
     color: #F9FAF8;
     font-size: 24px;
-    padding-right: 394px;
+    padding-right: 395px;
 }
 
 
@@ -32,9 +32,7 @@ a {
 }
 
 .title {
-    display: flex; 
-    width: 300px;
-    flex-wrap: wrap;
+    min-width: 300px;
     margin: 0px;
     font-size: 48px;
     font-weight: bolder;
@@ -61,4 +59,14 @@ a {
 
 .text {
     max-width: 390px;
+}
+
+button {
+    background-color: #3882F6;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-size: 18px;
+    padding: 7px 35px;
+    font-weight: bold;
 }
