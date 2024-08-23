@@ -17,6 +17,7 @@ h1 {
     display: flex;
     justify-content: center;
     white-space: nowrap;
+    margin-top: 15px;
 }
 
 a {
@@ -43,6 +44,7 @@ a {
     display: flex;
     flex-wrap: wrap-reverse;
     max-width: 450px;
+    min-width: 450px;
     margin-top: 5px;
     margin-bottom: 15px;
     font-size: 18px;
