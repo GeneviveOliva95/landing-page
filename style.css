@@ -2,6 +2,7 @@ body {
     display: flex;
     flex-direction: column;
     margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
@@ -39,8 +40,8 @@ a {
 }
 
 .subtext {
-    margin-top: 0px;
-    margin-bottom: 10px;
+    margin-top: 5px;
+    margin-bottom: 15px;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -53,8 +54,8 @@ a {
 .hero {
     display: flex;
     justify-content: center;
-    gap: 60px;
-    margin: 100px 0px;
+    gap: 103px;
+    margin: 120px 0px;
 }
 
 .text {
