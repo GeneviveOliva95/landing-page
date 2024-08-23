@@ -40,7 +40,8 @@ a {
 }
 
 .subtext {
-    margin: 5px 0px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -64,9 +65,9 @@ a {
 button {
     background-color: #3882F6;
     border: none;
-    border-radius: 10px;
+    border-radius: 8px;
     color: white;
     font-size: 18px;
-    padding: 7px 35px;
+    padding: 7px 30px;
     font-weight: bold;
 }
