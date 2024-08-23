@@ -32,7 +32,7 @@ a {
 }
 
 .title {
-    min-width: 300px;
+    max-width: 390px;
     margin: 0px;
     font-size: 48px;
     font-weight: bolder;
@@ -40,6 +40,9 @@ a {
 }
 
 .subtext {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    max-width: 450px;
     margin-top: 5px;
     margin-bottom: 15px;
     font-size: 18px;
@@ -54,12 +57,8 @@ a {
 .hero {
     display: flex;
     justify-content: center;
-    gap: 103px;
+    gap: 45px;
     margin: 120px 0px;
-}
-
-.text {
-    max-width: 390px;
 }
 
 button {
