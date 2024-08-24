@@ -123,11 +123,16 @@ button {
     max-width: 820px;
     font-size: 36px;
     font-weight: lighter;
+    margin-bottom: 0px;
+    margin-top: 130px;
     color: #1F2937;
 }
 
 .thor {
     display: flex;
-    width: 820px;
     justify-content: flex-end;
+    width: 800px;
+    margin-top: 0px;
+    margin-bottom: 100px;
+    font-size: 25px;
 }
