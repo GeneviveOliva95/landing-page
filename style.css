@@ -100,3 +100,8 @@ button {
     display: flex;
     justify-content: center;
 }
+
+.illustration-subtext {
+    text-align: center;
+    width: 150px;
+}
