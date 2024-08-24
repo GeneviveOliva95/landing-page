@@ -72,3 +72,8 @@ button {
     padding: 7px 30px;
     font-weight: bold;
 }
+
+.information {
+    display: flex;
+    justify-content: center;
+}
