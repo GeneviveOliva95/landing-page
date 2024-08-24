@@ -73,11 +73,6 @@ button {
     font-weight: bold;
 }
 
-.information {
-    display: flex;
-    justify-content: center;
-}
-
 .random-info {
     font-size: 36px;
     font-weight: bolder;
