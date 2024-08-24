@@ -104,5 +104,5 @@ button {
 
 .illustration-subtext {
     text-align: center;
-    width: 150px;
+    min-width: 150px;
 }
