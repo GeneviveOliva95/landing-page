@@ -82,6 +82,11 @@ button {
     margin-bottom: 20px;
 }
 
+#box-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 .box {
     width: 150px;
     height: 150px;
@@ -91,11 +96,7 @@ button {
     min-width: 150px;
 }
 
-#box-wrapper {
+.description {
     display: flex;
     justify-content: center;
-}
-
-.illustration-subtext {
-    display: flex;
 }
