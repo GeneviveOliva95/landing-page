@@ -1,3 +1,4 @@
+/*SECTION 1 - HEADER*/
 body {
     display: flex;
     flex-direction: column;
@@ -6,7 +7,6 @@ body {
 }
 
 h1 {
-    margin: 0px;
     color: #F9FAF8;
     font-size: 24px;
     padding-right: 395px;
@@ -17,7 +17,6 @@ h1 {
     display: flex;
     justify-content: center;
     white-space: nowrap;
-    margin-top: 15px;
 }
 
 a {
@@ -32,7 +31,12 @@ a {
     gap: 15px;
 }
 
-.title {
+/*SECTION 1 - HERO*/
+.section-one {
+    background-color: #1F2937;
+}
+
+.awesome-title {
     max-width: 390px;
     margin: 0px;
     font-size: 48px;
@@ -49,11 +53,6 @@ a {
     margin-bottom: 15px;
     font-size: 18px;
     color: #E5E7EB;
-}
-
-.section-one {
-    background-color: #1F2937;
-    padding: 10px;
 }
 
 .hero {
@@ -73,6 +72,7 @@ a {
     font-weight: bold;
 }
 
+/*SECTION 2*/
 .random-info {
     display: flex;
     justify-content: center;
@@ -88,15 +88,15 @@ a {
 }
 
 .box {
-    width: 150px;
+    display: flex;
+    min-width: 150px;
     height: 150px;
     border: 5px solid #3882F6;
     border-radius: 15px;
     margin: 0px 20px;
-    min-width: 150px;
 }
 
-.description {
+.box-description {
     display: flex;
     justify-content: center;
     gap: 40px;
@@ -112,17 +112,18 @@ a {
     color: #313131;
 }
 
-.middle {
+/*SECTION 3*/
+.section-three {
     display: flex;
     flex-direction: column;
     align-items: center;
     background-color: #E5E7EB;
 }
 
-.quote {
+.testimonial {
     max-width: 820px;
     font-size: 36px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     margin-top: 130px;
     color: #1F2937;
 }
@@ -136,15 +137,14 @@ a {
     font-size: 25px;
 }
 
-.white-space {
+/*SECTION 4*/
+.section-four {
     display: flex;
     justify-content: center;
-    width: auto;
-    height: auto;
     margin: 120px 0px;
 }
 
-.blue-box {
+.banner {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -155,14 +155,14 @@ a {
     gap: 150px;
 }
 
-.call {
+.action-title {
     font-size: 24px;
     font-weight: bold;
     color: #F9FAF8;
     margin: 0px ;
 }
 
-.click-button {
+.action-subtext {
     color: #E5E7EB;
     margin: 0px;
 }
@@ -170,14 +170,15 @@ a {
 #sign-bottom {
     background-color: #3882F6;
     border: 3px solid #F9FAF8;
-    border-radius: 8px;
     color: #F9FAF8;
+    border-radius: 8px;
     font-size: 18px;
     padding: 8px 30px;
     font-weight: bold;
 }
 
-.footer {
+/*SECTION 5 - FOOTER*/
+.section-five {
     display: flex;
     flex-direction: column;
     align-items: center;
