@@ -63,7 +63,7 @@ a {
     margin: 120px 0px;
 }
 
-button {
+#sign-top {
     background-color: #3882F6;
     border: none;
     border-radius: 8px;
@@ -167,10 +167,14 @@ button {
     margin: 0px;
 }
 
-.sign-up {
-    width: 50px;
-    height: 50px;
-    border: 10px solid white;
+#sign-bottom {
+    background-color: #3882F6;
+    border: 3px solid white;
+    border-radius: 8px;
+    color: #F9FAF8;
+    font-size: 18px;
+    padding: 8px 30px;
+    font-weight: bold;
 }
 
 .footer {
