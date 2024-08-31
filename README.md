@@ -31,8 +31,8 @@ Note: I sectioned both HTML and CSS according to content. There are a total of f
 
 ## Credits
 All content found on the page are cited below:
-Layout - The Odin Project (https://www.theodinproject.com/)
-Image - Unsplash; photographed by Mario Scheibl (https://unsplash.com/photos/a-picture-of-the-brooklyn-bridge-taken-from-the-ground-LjIRy8G67cw)
-Shrek - Wikipedia (https://en.wikipedia.org/wiki/Shrek_%28character%29)
-Patrick Star- Wikipedia (https://en.wikipedia.org/wiki/)
+- Design - The Odin Project (https://www.theodinproject.com/)
+- Image - Unsplash; photographed by Mario Scheibl (https://unsplash.com/photos/a-picture-of-the-brooklyn-bridge-taken-from-the-ground-LjIRy8G67cw)
+- Shrek - Wikipedia (https://en.wikipedia.org/wiki/Shrek_%28character%29)
+- Patrick Star- Wikipedia (https://en.wikipedia.org/wiki/)
 Pepe the Frog - Wikipedia (https://en.wikipedia.org/wiki/Pepe_the_Frog)
