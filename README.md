@@ -8,12 +8,14 @@ The purpose of the web page is to visually mimic a basic design that is commonly
 
 The web page itself is meant to serve more as a template rather than a fully functional web page. Although some of the header links do reference other pages, not all of the content is interactive.
 
+To construct the page, I created a repository specifically for the Landing Page project. The Odin Project provided an image of how the web page should appear, and I wrote the code for both HTML and CSS to match the image.
+
 To construct the page, I used the following:
 - Oracle VM VirtualBox
 - HTML
 - CSS
 - CSS Flexible Box Layout
-- Visual Studio Code
+- Visual Studio Code 
 
 I aim to implement dynamic content in the future using JavaScript, design a logo to replace the header logo (located top-left of the page), and add a layer of interactivity by ensuring that all buttons and links are fully functional.
 
