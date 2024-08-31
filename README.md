@@ -27,7 +27,7 @@ The header links are functional and lead you to the following pages:
 
 The image of the Brooklyn Bridge is not interactive.
 
-Disclaimer: I do not claim ownership over the links provided above. I did not design nor create them.
+Note: I sectioned both HTML and CSS according to content. There are a total of five sections (with section-one as the header and section-five as the footer), allowing other developers to visibly see the structure of the code.
 
 ## Credits
 All content found on the page are cited below:
