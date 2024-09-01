@@ -6,7 +6,7 @@ The Landing Page project is a web page that I have reconstructed as part of the 
 ## Project Description
 The purpose of the web page is to visually mimic a basic design that is commonly used by developers, and to ensure the proper use of Flexbox for responsive web design.
 
-The web page itself is meant to serve more as a template rather than a fully functional web page. Although some of the header links do reference other pages, not all of the content is interactive.
+The web page itself is meant to serve more as a template rather than a fully functional web page. Although some of the header links do reference other pages, not all of the content is interactive. The web page is not yet compatible with mobile devices.
 
 To construct the page, I created a repository specifically for the Landing Page project. The Odin Project provided an image of how the web page should appear, and I wrote the code for both HTML and CSS to match the image.
 
