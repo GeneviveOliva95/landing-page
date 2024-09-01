@@ -10,6 +10,9 @@ The web page itself is meant to serve more as a template rather than a fully fun
 
 To construct the page, I created a repository specifically for the Landing Page project. The Odin Project provided an image of how the web page should appear, and I wrote the code for both HTML and CSS to match the image.
 
+I used the image below as reference for how my project should look:
+- https://cdn.statically.io/gh/TheOdinProject/curriculum/81a5d553f4073e593d23a6ab00d50eef8620796d/foundations/html_css/project/imgs/01.png
+
 To construct the page, I used the following:
 - Oracle VM VirtualBox
 - HTML
